@@ -9,7 +9,7 @@
 </p>
 
 <!-- Big Title (plain text to avoid SVG issues) -->
-<h1 align="center">🐍 Mahak's Daily Python Journey — Code • Learn • Create 🚀</h1>
+<h1 align="center">🐍  Daily Python Journey — Code • Learn • Create 🚀</h1>
 
 <p align="center">
   <em>A consistent, daily collection of Python practice files, mini-projects and notes — by MahakTech.</em>

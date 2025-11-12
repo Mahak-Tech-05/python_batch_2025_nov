@@ -1,42 +1,77 @@
-<!-- 🌟 PYTHON DAILY UPLOADS | BY MAHAKTECH -->
+<!-- 🌐 MAHAKTECH | Daily Python Journey -->
 
+<!-- 🖼️ Banner -->
 <p align="center">
-  <img src="https://www.shutterstock.com/image-illustration/python-programming-language-other-computer-260nw-2161798561.jpg" width="80%" alt="Python Tech Banner">
+  <img src="https://www.shutterstock.com/image-photo/anime-image-data-scientist-coding-260nw-2391936967.jpg" width="100%" alt="Python Tech Banner">
 </p>
 
-<h1 align="center">🐍 PYTHON DAILY UPLOADS 🚀</h1>
+<!-- ✨ Animated Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3500&pause=1000&color=00FFEA&center=true&vCenter=true&width=800&lines=🐍+Mahak's+Daily+Python+Journey+🚀;Learning+Python+Step+by+Step;Building+Logic+%26+Projects+Everyday!" alt="Typing SVG" />
+</h1>
 
+---
+
+## 🌟 About This Repository
+Welcome to **Mahak's Daily Python Journey!**  
+Here I upload my **daily Python practice codes**, challenges, and mini-projects.  
+Each day is a new step toward mastering **Python programming** and **problem-solving**.  
+
+> 💡 “Consistency turns knowledge into mastery.”
+
+---
+
+## 🔥 What You'll Find Here
+- 🧠 **Daily Python Practice Files**  
+- 💻 **Mini Projects & Assignments**  
+- 📘 **Notes & Learning Resources**  
+- 🚀 **Experiment Codes** and Logical Tasks  
+
+---
+
+## 🧩 My Python Learning Roadmap
+| Phase | Focus Area | Description |
+|:------:|:-----------|:------------|
+| 1️⃣ | Basics | Syntax, Variables, Data Types |
+| 2️⃣ | Core Concepts | Loops, Functions, Lists, Dictionaries |
+| 3️⃣ | Intermediate | File Handling, Modules, OOP |
+| 4️⃣ | Advanced | Libraries (NumPy, Pandas), APIs |
+| 5️⃣ | Projects | Building Real-world Python Projects |
+
+---
+
+## ⚙️ Tech Stack
 <p align="center">
-  <b>Daily Python coding practice, concepts, and projects</b><br>
-  <i>Documenting consistency, learning, and growth — one day at a time.</i>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🌈 About This Repository
+## 🌈 Daily Tracker
+📅 **Started On:** November 2025  
+🏆 **Goal:** Upload at least **one Python file per day**
 
-Welcome to **Python Daily Uploads**, a growing collection of Python programs, exercises, and small projects — uploaded every day as part of a continuous learning journey.  
-
-💡 Each file represents:
-- A new **concept** learned 🎓  
-- A **challenge** solved 💻  
-- A **skill** improved 🚀  
-
-Whether you're following along or exploring code examples, this repo is designed to **inspire consistency and progress**.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahaktech-05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🗂️ Repository Structure
+## 💬 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahak-tech-377406365"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.instagram.com/p/DOwIct0Cizu/?utm_source=ig_web_copy_link"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram"></a>
+  <a href="mailto:saxen"><img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail"></a>
+</p>
 
-```bash
-📁 PYTHON-DAILY-UPLOADS/
-│
-├── day01_hello_world.py
-├── day02_variables.py
-├── day03_data_types.py
-├── day04_loops.py
-├── day05_functions.py
-├── day06_file_handling.py
-├── day07_oop_basics.py
-│
-└── README.md
+---
+
+<p align="center">
+  💫 *Learning Never Stops. Let’s keep coding and growing!* 💫  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFEA,100:8A2BE2&height=100&section=footer" />
+</p>

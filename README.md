@@ -1,13 +1,16 @@
-<!-- 🌐 MAHAKTECH | Daily Python Codes -->
+<!-- 🌐 MAHAKTECH | Daily Python Codes Repository -->
 
 <!-- 💫 Futuristic Banner -->
 <p align="center">
-  <img src="https://www.shutterstock.com/image-photo/anime-image-data-scientist-coding-260nw-2391936967.jpg" width="100%" alt="Python Tech Banner">
+  <img src="https://www.shutterstock.com/image-photo/anime-image-data-scientist-coding-260nw-2391936967.jpg" 
+       alt="Python Tech Banner" 
+       width="100%" 
+       style="border-radius:20px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" />
 </p>
 
 <!-- 🔥 Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=35&duration=3500&pause=1000&color=08E8DE&center=true&vCenter=true&width=900&lines=🐍+Mahak's+Daily+Python+Journey;⚙️+Building+Logic+Step+by+Step;🚀+Learning+Python+Every+Single+Day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3500&pause=1000&color=00E0FF&center=true&vCenter=true&width=900&lines=🐍+Mahak's+Daily+Python+Journey;⚙️+Mastering+Logic+Step+by+Step;🚀+Building+Skills+Every+Single+Day!" alt="Typing SVG" />
 </h1>
 
 ---
@@ -17,31 +20,32 @@
 </p>
 
 ## 🌟 About This Repository  
-Welcome to **Mahak’s Daily Python Journey** 🐍  
-Here, I upload my **daily practice codes**, notes, and creative projects — all focused on **improving logic, consistency, and depth in Python**.  
+Welcome to **Mahak’s Daily Python Codes** 🐍  
+This repository is where I upload my **daily practice files**, **notes**, and **projects** as part of my Python learning journey.  
+Each commit here represents a **step forward in mastering programming logic, creativity, and consistency**.  
 
-> 💬 “Every day, one new code — one new skill.”
+> 💬 *“Discipline is the bridge between goals and accomplishment.”*
 
 ---
 
-## ⚡ What You’ll Find
+## ⚡ What You’ll Find Here
 ✨ Daily Python Programs  
-🚀 Mini Projects & Experiments  
-📘 Learning Notes & Tasks  
-💡 Challenges to Improve Thinking  
+🚀 Mini Projects & Practice Tasks  
+🧠 Logical Challenges & Assignments  
+📘 Notes for Deep Understanding  
 
 ---
 
-## 🧩 Python Learning Path
+## 🧩 Python Learning Roadmap
 
 | Phase | Focus Area | Description |
 |:------:|:-----------|:------------|
-| 🩵 **1** | Basics | Variables, Operators, Data Types |
-| 🩵 **2** | Control Flow | Loops, Conditionals, Functions |
-| 🩵 **3** | Data Structures | Lists, Tuples, Dictionaries |
-| 🩵 **4** | Intermediate | File Handling, OOP Concepts |
-| 🩵 **5** | Advanced | Modules, APIs, Pandas, NumPy |
-| 🩵 **6** | Projects | Real-World Python Creations |
+| 💡 **1** | Basics | Print, Variables, Data Types |
+| 🔁 **2** | Control Flow | Loops, Conditions, Functions |
+| 🧺 **3** | Data Structures | Lists, Tuples, Dictionaries |
+| ⚙️ **4** | Intermediate | File Handling, OOP, Modules |
+| 📈 **5** | Advanced | NumPy, Pandas, APIs |
+| 🚀 **6** | Projects | Real-World Python Applications |
 
 ---
 
@@ -54,10 +58,17 @@ Here, I upload my **daily practice codes**, notes, and creative projects — all
 
 ## 🎯 My Daily Tracker
 📅 **Started:** November 2025  
-🔥 **Goal:** Upload at least one Python file daily  
+🔥 **Goal:** Upload one Python code daily  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahaktech-05&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahaktech-05&theme=tokyonight-duo&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Graph Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -77,16 +88,9 @@ Here, I upload my **daily practice codes**, notes, and creative projects — all
 
 ---
 
-## 🐍 Fun Fact
-> Python is named after *“Monty Python”*, not the snake.  
-> But still... 🐍 is cooler!
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,100:00bbf9&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <b>💫 Keep Coding | Keep Growing | Keep Shining 💫</b>
-</p>
+## ⚙️ Quick Start
+Clone this repo and explore:
+```bash
+git clone https://github.com/mahaktech-05/<your-repo-name>.git
+cd <your-repo-name>
+python yourfile.py
